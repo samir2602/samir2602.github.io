@@ -8,7 +8,10 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-
+.markdown-body table tr {
+    background-color: #000000;
+    border-top: 1px solid #c6cbd1;
+}
 :root {
   --bg: #0e0f11;
   --surface: #16181c;
